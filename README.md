@@ -14,7 +14,7 @@ Download the [Vercel CLI](https://vercel.com/docs/cli) and run `vercel` from the
 
 You can also link your GitHub repository on [Vercel's site](https://vercel.com)
 
-### 🟢 A live version of the deployment is available [here](https://rainbowkit.me/)
+### 🟢 A live version of the deployment is available [here](https://vite-tailwind-starter-two.vercel.app/)
 
 ## To deploy to [Fleek](https://fleek.co/) on IPFS
 
