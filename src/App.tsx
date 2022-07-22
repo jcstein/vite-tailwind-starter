@@ -1,3 +1,6 @@
+import Github from "./Components/github";
+import Twitter from "./Components/twitter";
+
 function App() {
   return (
     <div className="bg-zinc-900 flex justify-center items-center h-screen text-white w-screen p-10">
@@ -26,6 +29,8 @@ function App() {
           </a>
           !
         </h1>
+        <Github />
+        <Twitter />
       </div>
     </div>
   );
